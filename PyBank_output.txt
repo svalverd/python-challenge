@@ -1,0 +1,7 @@
+Functional Analayis
+____________________________________
+Total_Months: 86
+Total: $38382578
+Average: $446309.0465116279
+Greatest Increase in Profits: Feb-2017$(532869)
+Greatest Decrease in Profits: Dec-2016$(-734926)
